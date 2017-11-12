@@ -28,11 +28,11 @@ public class CompareStack {
         s1.push(4);
         s1.push(5);
         
-        s2.push(5);
+        s2.push(1);
         s2.push(2);
         s2.push(3);
         s2.push(4);
-        s2.push(1);
+        s2.push(5);
         
         System.out.println ("First Stack....:" + s1);
         System.out.println ("Second Stack...:" + s2);
